@@ -3,7 +3,7 @@ import React from 'react';
 const Main = () => {
   return (
     <>
-      React Init. sddfsdf
+      React Init.
     </>
   );
 };
